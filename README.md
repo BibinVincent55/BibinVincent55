@@ -1,6 +1,6 @@
 [![MasterHead](https://www.xpand-it.com/wp-content/uploads/2020/04/AFBannerReact_1920x500.png)](https://bibinvincent55.io)
 <h1 align="center">Hi 👋, I'm Bibin Vincent</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A aspiring frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibinvincent55&label=Profile%20views&color=0e75b6&style=flat" alt="bibinvincent55" /> </p>
 
@@ -55,7 +55,7 @@
   
 
 <br/>  
-
+<br/> <br/> <br/> <br/>  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibinvincent55&show_icons=true&locale=en&layout=compact" alt="bibinvincent55" /></p>
